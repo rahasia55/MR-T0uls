@@ -1,1 +1,67 @@
-tes
+[
+  {
+  "visibility": "INVISIBLE",
+ "upgrade_skin_enabled": false,
+  "min_version": "1.5",
+  "app_name": "BS TOOLS",
+  "dialog_title": "Application under maintenance, please use the ML Tools Hub application temporarily. Click Update",
+  "dialog_message": "Aplikasi dalam perbaikan, sementara gunakan aplikasi ML Tools Hub, Klik Update",
+  "button_update": "Update",
+  "button_cancel": "Cancel",
+  "cancelable": false,
+  "info": "tes",
+  "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin",
+"tutor_main": "https://youtube.com/shorts/nCjCMuS6Xcs?si=UtEWWGokBbjBo8kb",
+  "tutor_file": "https://youtube.com/shorts/nCjCMuS6Xcs?si=UtEWWGokBbjBo8kb",
+  "tutor_shizuku": "https://youtube.com/shorts/i4GQhS60A00?si=ey45zfpHGVv0LyGf",
+  "tutor_iadb": "https://youtube.com/shorts/8ZSPmLh9rhI?si=cLEAHfKCMnzm5JzM",
+    "youtube": "https://youtube.com/playlist?list=PLCy5k943iTBY&si=-5QXcPM_LlHk0weB",
+  "tiktok": "https://www.tiktok.com/@app.injector.ml.skin.gfx?_r=1&_t=ZS-99dSmvCWmm8",
+  "telegram": "https://youtube.com/playlist?list=PLCy5k943iTBY&si=-5QXcPM_LlHk0weB",
+    "whatsapp": "https://chat.whatsapp.com/JeaFz7UEvbN2zYGatJfBtb",
+    "privacy_policy": "https://situstudio.blogspot.com/p/privacy-policy-bs-tools.html?m=1",
+
+"partner_apps_visible": true,
+    "partner_apps": [
+      {
+        "app_name": "GS Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "Remoba Tools",
+        "icon_url": "https://i.ibb.co.com/RGM5hW5S/Chat-GPT-Image-18-Agu-2026-23-36-04-picsay.png",
+        "link_update": "https://play.google.com/store/apps/details?id=com.Remoba.Tools.MLSkinHub.Injector"
+      },
+      {
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/8iZSVKljiRYYcGBAAG3Olaa0VIUCWcnzEUv6PrMvr4qh0hlZ2-tVOXgQch8Z_GBG44J9sNgXYalyGRFFzMPpSw=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.Toolshub.MLSkinInjector.GameToolsML&hl=id"
+      },
+      {
+        "app_name": "BS Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/pDL2T7Jm4MMZONc8R5J0Q0MM-ViGU9uNDlRLU7AsgMNIMnJBcqcktevDYJmzvt6MbqJtiW_D8fG4T8rtgtqKww=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.BS.Toolskit"
+      },
+      {
+        "app_name": "ML Tools Pro",
+        "icon_url": "https://play-lh.googleusercontent.com/1KiBqeXkdddyWTpbDFPm40M9F5eBKxQ3KRzN_2FkDuGcID0VI18P-eSgG5KYLLo16cjv11ErV8LbZ2FfkmdsVw=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsPro.MLSkinInjector.ModScriptSkin"
+      },
+      {
+        "app_name": "Ryu Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/-zOLRr4F7nnCbIWUw0_JmnuAnboTfsrhqtV5kPQkgPyVLHfQN6A9GEHefos2mT5vHFninF_-516WbXE69FnpIQ=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.Ryu.Tools.MLSkinInjector.ML.Toolkit"
+      },
+      {
+        "app_name": "ML Tools GFX",
+        "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
+      }
+    
+      
+    ]
+
+    
+  }
+]

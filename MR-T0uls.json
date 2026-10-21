@@ -1,11 +1,11 @@
 [
   {
   "visibility": "VISIBLE",
- "upgrade_skin_enabled": false,
+ "upgrade_skin_enabled": true,
   "min_version": "1.3",
-  "app_name": "MR TOOLS",
-  "dialog_title": "App under maintenance. Meanwhile, please use yin Tools. Click update",
-  "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi Yin Tools. klik update",
+  "app_name": "MR Tools",
+  "dialog_title": "New version available. Please update now!",
+  "dialog_message": "versi baru tersedia, harap update sekarang!",
   "button_update": "Update",
   "button_cancel": "Cancel",
   "cancelable": false,
